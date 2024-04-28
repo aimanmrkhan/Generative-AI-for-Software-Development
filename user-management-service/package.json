@@ -1,0 +1,30 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Final Project codecrafthub",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimanmrkhan/Generative-AI-for-Software-Development.git"
+  },
+  "keywords": [
+    "ibm",
+    "certification",
+    "codecrafthub"
+  ],
+  "author": "mohammed aiman khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimanmrkhan/Generative-AI-for-Software-Development/issues"
+  },
+  "homepage": "https://github.com/aimanmrkhan/Generative-AI-for-Software-Development#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.3.2"
+  }
+}
